@@ -8,6 +8,8 @@
 ```
 $ npm install --save mount-point
 ```
+**Note:** This package has a [scoped package](https://docs.npmjs.com/misc/scope) as it's dependency, and hence, [is not compatible](https://twitter.com/othiym23/status/593653282272194560) with npm 1.x. ([#2](https://github.com/kevva/mount-point/issues/2))  
+**Solution:** Upgrade npm using `npm install -g npm@latest`.
 
 
 ## Usage
