@@ -1,5 +1,5 @@
 {
-  "name": "mount-point",
+  "name": "@icyflame/mount-point",
   "version": "2.0.0",
   "description": "Get the mount point for a file",
   "license": "MIT",
@@ -27,6 +27,6 @@
     "ava": "^0.0.4"
   },
   "dependencies": {
-    "@sindresorhus/df": "^1.0.1"
+    "@icyflame/df": "1.0.2"
   }
 }
